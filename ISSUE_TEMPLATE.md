@@ -1,13 +1,17 @@
 ## Platform Information
 
+* Application:
+> - [ ] Ebikemotion 2
+> - [ ] Ebikemotion 2 Dealer
+
 * Version: <!--- i.e., 1.0.1 -->
 
 * Build Number: <!--- i.e., 579 -->
 
 * Source:
-
-- [ ] Buddybuild
-- [ ] App Store
+<!--- Fill the [ ] gap with an X, i.e., - [X] BuddyBuild -->
+> - [ ] Buddybuild
+> - [ ] App Store
 
 * Device: <!--- i.e., iPhone 6S -->
 
@@ -42,4 +46,4 @@
 <!--- Providing context helps us come up with a solution that is most useful in the real world -->
 
 ## Additional Information
-<!--- Feel free to add any relevant information you consider in order to help the development team to address the issue as soon as possible -->
+<!--- Feel free to add any relevant information you consider in order to help the development team to address the issue as soon as possible, images, videos or any log or report is welcome. -->
