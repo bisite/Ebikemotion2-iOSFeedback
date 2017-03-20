@@ -1,6 +1,7 @@
 ## Platform Information
 
 * Application:
+<!--- Fill the [ ] gap with an X, i.e., - [X] Ebikemotion 2 -->
 > - [ ] Ebikemotion 2
 > - [ ] Ebikemotion 2 Dealer
 
@@ -20,6 +21,9 @@
 * Internet Connectivity: <!--- i.e., WiFi + 4G -->
 
 * iWoc Firmware Version (if any): <!--- i.e., 3.9 -->
+<!--- Fill the [ ] gap with an X, i.e., - [X] CAN -->
+> - [ ] CAN
+> - [ ] 485
 
 ## Expected Behavior
 <!--- If you're describing a bug, tell us what should happen -->
